@@ -1,0 +1,1173 @@
+﻿Very Important to Visit here first
+
+
+* EEF Drive
+
+
+The soul purpose here is practice
+
+
+Unit 1
+
+
+Q1. Who is known as the father of modern economics?
+A) Karl Marx
+B) Adam Smith
+C) John Maynard Keynes
+D) Milton Friedman
+Answer: B) Adam Smith
+Q2. What is a free market?
+A) A market where goods are given away for free
+B) A market where the government controls all economic activity
+C) A market where consumers and producers make their own decisions with no government interference
+D) A market where prices are fixed by the government
+Answer: C) A market where consumers and producers make their own decisions with no government interference
+Q3. What is the economic problem?
+A. The unlimited supply of wants and needs
+B. The limited supply of resources to fulfill unlimited wants and needs
+C. The limited supply of wants and needs
+D. The unlimited supply of resources to fulfill wants and needs
+Answer: B. The limited supply of resources to fulfill unlimited wants and needs
+Q4. What are the factors of production?
+A. Land, labor, capital, and entrepreneurship
+B. Goods, services, land, and labor
+C. Rent, wages, interest, and profit
+D. Demand, supply, production, and consumption
+Answer: A. Land, labor, capital, and entrepreneurship
+Q5. What is the opportunity cost?
+A. The cost expressed in terms of the next best alternative sacrificed
+B. The cost expressed in terms of the most expensive alternative chosen
+C. The cost expressed in terms of the least expensive alternative chosen
+D. The cost expressed in terms of the original choice made
+Answer: A. The cost expressed in terms of the next best alternative sacrificed
+Q6. What is scarcity?
+A. The excess of resources resulting from unlimited wants
+B. The excess of wants resulting from unlimited resources
+C. The excess of resources resulting from limited wants
+D. The excess of wants resulting from limited resources
+Answer: D. The excess of wants resulting from limited resources
+Q7. What is the function of entrepreneurship?
+A. Refers to the management, organization, and planning of the other three factors of production
+B. Refers to the physical and mental effort of people used in production
+C. Refers to all non-natural (manufactured) resources that are used in the creation and production of other products
+D. Refers to the natural resources available for production
+Answer: A. Refers to the management, organization, and planning of the other three factors of production
+
+
+
+
+Q8. What is a market demand curve?
+a) The alternative prices of a good that all consumers in a particular market are willing and able to buy as quantity varies, holding all other factors constant.
+b) The alternative quantities of a good that all producers in a particular market are willing and able to supply as price varies, holding all other factors constant.
+c) The alternative quantities of a good that all consumers in a particular market are willing and able to buy as price varies, holding all other factors constant.
+d) The alternative prices of a good that all producers in a particular market are willing and able to supply as quantity varies, holding all other factors constant.
+Answer: c) The alternative quantities of a good that all consumers in a particular market are willing and able to buy as price varies, holding all other factors constant.
+Q9. What is a movement along a demand curve?
+a) A shift in the position of the demand curve due to a change in one of the factors being held constant.
+b) A change in the quantity demanded due to a change in one of the factors being held constant.
+c) A change in both quantity demanded and price due to a change in one of the factors being held constant.
+d) A shift in the position of the supply curve due to a change in one of the factors being held constant.
+Answer: b) A change in the quantity demanded due to a change in one of the factors being held constant.
+Q10. What are the other factors that are held constant in a movement along a demand curve?
+a) Prices of other goods including substitutes and complements, aggregate consumer money income, consumer population, and non-economic factors.
+b) Aggregate producer money income, producer population, and non-economic factors.
+c) Prices of other goods including substitutes and complements, consumer population, and non-economic factors.
+d) None of the above.
+Answer: a) Prices of other goods including substitutes and complements, aggregate consumer money income, consumer population, and non-economic factors.
+Q11. What is a shift in the position of the demand curve?
+a) A change in the quantity demanded due to a change in one of the factors being held constant.
+b) A change in both quantity demanded and price due to a change in one of the factors being held constant.
+c) A shift in the position of the supply curve due to a change in one of the factors being held constant.
+d) A shift in the position of the demand curve due to a change in one of the factors being held constant.
+Answer: d) A shift in the position of the demand curve due to a change in one of the factors being held constant.
+Q12. What is a demand shifter?
+a) A factor that leads consumers to change demand quantities at the same price.
+b) A factor that leads producers to change supply quantities at the same price.
+c) A factor that affects both demand and supply quantities at the same price.
+d) None of the above.
+Answer: a) A factor that leads consumers to change demand quantities at the same price.
+Q13. What is the effect of an increase in population on the demand curve?
+a) The demand curve shifts to the left.
+b) The demand curve shifts to the right.
+c) The slope of the demand curve becomes steeper.
+d) The slope of the demand curve becomes flatter.
+Answer: b) The demand curve shifts to the right.
+Q14 What is the effect of an increase in the price of a substitute on the demand curve?
+a) The demand curve shifts to the left.
+b) The demand curve shifts to the right.
+c) The slope of the demand curve becomes steeper.
+d) The slope of the demand curve becomes flatter.
+Answer: b) The demand curve shifts to the right.
+
+
+
+
+Q15. What is the relationship between supply quantity and output price?
+a) Inverse
+b) Direct
+c) No relationship
+d) Indeterminate
+Answer: b) Direct
+Q16. What are the factors that determine supply quantity?
+a) Output price
+b) Input prices
+c) Price of alternative output
+d) All of the above
+Answer: d) All of the above
+Q17. What is the supply curve?
+a) Relationship between supply quantity and input price
+b) Relationship between demand and supply
+c) Relationship between supply quantity and output price
+d) Relationship between production and consumption
+Answer: c) Relationship between supply quantity and output price
+Q18. What is a movement along a supply curve?
+a) Change in supply
+b) Change in quantity supplied
+c) Change in demand
+d) None of the above
+Answer: b) Change in quantity supplied
+Q19. What is a shift in the position of the supply curve?
+a) Change in supply
+b) Change in quantity supplied
+c) Change in demand
+d) None of the above
+Answer: a) Change in supply
+Q20. Which of the following is a supply shifter?
+a) Input prices
+b) Alternative output prices
+c) Technology
+d) All of the above
+Answer: d) All of the above
+Q21. What happens to the supply curve when input prices decrease?
+a) Shifts to the right
+b) Shifts to the left
+c) Remains unchanged
+d) Can shift either way
+Answer: a) Shifts to the right
+Q22. What happens to the supply curve when technology improves?
+a) Shifts to the right
+b) Shifts to the left
+c) Remains unchanged
+d) Can shift either way
+Answer: a) Shifts to the right
+Q23. What is the slope of the supply curve?
+a) Positive
+b) Negative
+c) Zero
+d) Indeterminate
+Answer: a) Positive
+Q24. What is the opportunity cost of not producing other commodities?
+a) Input prices
+b) Alternative output prices
+c) Technology
+d) Noneconomic factors
+Answer: b) Alternative output prices
+
+
+Q25. What is the equilibrium price?
+a) The price at which quantity demanded is less than quantity supplied
+b) The price at which quantity demanded is greater than quantity supplied
+c) The price at which quantity demanded equals quantity supplied
+d) The price at which there is no demand or supply
+Answer: c) The price at which quantity demanded equals quantity supplied
+Q26. What does excess supply mean?
+a) The quantity that consumers are willing to buy is less than the quantity producers are willing to sell
+b) The quantity that consumers are willing to buy is equal to the quantity producers are willing to sell
+c) The quantity that consumers are willing to buy is greater than the quantity producers are willing to sell
+d) There is no excess supply in a market
+Answer: a) The quantity that consumers are willing to buy is less than the quantity producers are willing to sell
+Q27. In a perfectly competitive market, can prices other than the equilibrium price be sustained?
+a) Yes
+b) No
+Answer: b) No
+Q28. What happens when the price is above the equilibrium price?
+a) There is excess demand
+b) There is no demand or supply
+c) There is excess supply
+d) The market is in equilibrium
+Answer: c) There is excess supply
+Q29. What is engineering efficiency?
+a) A measure of the benefits and costs associated with engineering projects
+b) The ratio between the energy needed to power an engine or process and the energy the engine or process creates
+c) The efficient allocation of goods and factors of production in an economy
+d) The application of engineering design and analysis principles to provide goods and services
+Answer: b) The ratio between the energy needed to power an engine or process and the energy the engine or process creates
+Q30. What is economic efficiency?
+a) The ratio between the energy needed to power an engine or process and the energy the engine or process creates
+b) The efficient allocation of goods and factors of production in an economy
+c) The application of engineering design and analysis principles to provide goods and services
+d) A measure of the benefits and costs associated with engineering projects
+Answer: b) The efficient allocation of goods and factors of production in an economy
+Q31. What is the scope of engineering economics?
+a) To measure the output of work compared to the expected outcome
+b) To provide goods and services that satisfy the consumer at an affordable cost
+c) To systematically evaluate the benefits and costs of projects involving engineering design and analysis
+d) To distribute or allocate all goods and factors of production to their most valuable uses
+Answer: c) To systematically evaluate the benefits and costs of projects involving engineering design and analysis
+Q32. What is the opportunity/alternative cost?
+a) The cost that is brought by giving the money and have a record
+b) The second best investment option
+c) The cost that goes on decreasing with the asset
+d) The cost associated with improving developer experience, maintaining org tempo, and staying aligned with business needs
+Answer: b) The second best investment option
+Q33. What is marginal revenue?
+a) The efficient allocation of goods and factors of production in an economy
+b) A measure of the benefits and costs associated with engineering projects
+c) A measure used to determine the amount of output that will maximize profits
+d) The ratio between the energy needed to power an engine or process and the energy the engine or process creates
+Answer: c) A measure used to determine the amount of output that will maximize profits
+Q33. What is the law of demand?  
+(a) The quantity demanded of a good or service increases as its price increases 
+(b) The quantity demanded of a good or service decreases as its price increases  
+(c) The quantity supplied of a good or service increases as its price increases  
+(d) The quantity supplied of a good or service decreases as its price increases.   
+
+
+Answer: (b)
+
+
+Q34. What is the difference between a shift and a movement along a demand curve
+
+
+(a) A shift occurs when there is a change in price while a movement occurs when there is a change in any other factor affecting demand 
+(b) A shift occurs when there is a change in any other factor affecting demand while a movement occurs when there is a change in price 
+(c) A shift occurs when there is a change in quantity demanded while a movement occurs when there is a change in demand 
+(d) A shift occurs when there is a change in demand while a movement occurs when there is a change in quantity demanded
+
+
+Answer: (b)
+Unit 2
+
+
+Q1. What is the break-even point in a business?
+A) The point at which a company makes a profit
+B) The point at which a company breaks even and covers all of its costs
+C) The point at which a company has no revenue
+D) The point at which a company goes bankrupt
+Answer: B
+
+
+
+
+Q2. What are fixed costs in a business?
+A) Costs that vary with the level of production
+B) Costs that remain the same regardless of how many units are sold
+C) Costs that are incurred only if the business makes a profit
+D) Costs that are incurred only if the business makes a loss
+Answer: B
+
+
+Q3.What is the purpose of elementary economic analysis?
+A) To evaluate different alternatives and make optimal decisions
+B) To calculate the profit of a business
+C) To determine the break-even point of a business
+D) To analyze the cash flow of a business
+Answer: A
+
+
+Q4. What is depreciation in accounting?
+A) A means of cost allocation
+B) A means of generating revenue
+C) A means of reducing expenses
+D) A means of increasing assets
+Answer: A
+
+
+Q5. What is the first step in budget analysis?
+A) Choose your budgeting strategy
+B) Decide on a time frame
+C) Track the company's budget
+D) Analyze your results
+Answer: A
+
+
+Q6.What are variable costs in a business?
+A) Costs that remain the same regardless of how many units are sold
+B) Costs that vary with the level of production
+C) Costs that are incurred only if the business makes a profit
+D) Costs that are incurred only if the business makes a loss
+Answer: B
+
+
+Q7. What is the purpose of material selection in technical design?
+A) To allocate costs to tangible assets
+B) To evaluate different alternatives and make optimal decisions
+C) To match material properties with technical design requirements
+D) To analyze the cash flow of a business
+Answer: C
+
+
+Q8. What is the purpose of a budget analysis?
+A) To evaluate different alternatives and make optimal decisions
+B) To calculate the profit of a business
+C) To determine the break-even point of a business
+D) To evaluate a business' financial well-being
+Answer: D
+
+
+Q9. What is the second step in budget analysis?
+A) Choose your budgeting strategy
+B) Decide on a time frame
+C) Track the company's budget
+D) Analyze your results
+Answer: B
+
+
+Q9. What is the break-even point of sale?
+A) The point at which a company makes a profit
+B) The point at which a company breaks even and covers all of its costs
+C) The point at which a company has no revenue
+D) The point at which a company goes bankrupt
+Answer: B
+
+
+Q10. What is the current ratio of a company if its current assets are Rs. 500,000 and current liabilities are Rs. 250,000?
+a) 0.5
+b) 1.5
+c) 2 (Answer)
+d) 3
+
+
+Explanation:
+The current ratio is calculated by dividing current assets by current liabilities. Therefore, current ratio = current assets / current liabilities
+Current ratio = 500,000 / 250,000 = 2
+Q11. A company has total sales of Rs. 2,000,000 and gross profit of Rs. 500,000. What is the gross profit ratio of the company?
+a) 10%
+b) 20% (Answer)
+c) 25%
+d) 30%
+Explanation:
+The gross profit ratio is calculated by dividing the gross profit by total sales and multiplying by 100. Therefore, gross profit ratio = (gross profit / total sales) * 100
+Gross profit ratio = (500,000 / 2,000,000) * 100 = 25%
+Q12. If the debtors of a company are Rs. 200,000 and the credit sales are Rs. 1,000,000, what is the average collection period assuming 365 days in a year?
+a) 18 days
+b) 36 days (Answer)
+c) 72 days
+d) 180 days
+Explanation:
+The average collection period is calculated by dividing the number of days in a year by the debtor turnover ratio. Therefore, average collection period = (365 days / debtor turnover ratio)
+Debtor turnover ratio = credit sales / average debtors
+Debtor turnover ratio = 1,000,000 / 200,000 = 5
+Average collection period = 365 / 5 = 73 days (approx.)
+Therefore, the correct answer is b) 36 days (approx.)
+Q13. If a company has current assets of Rs. 300,000 and current liabilities of Rs. 100,000, what is the working capital of the company?
+a) Rs. 100,000
+b) Rs. 200,000 (Answer)
+c) Rs. 300,000
+d) Rs. 400,000
+Explanation:
+Working capital is calculated by subtracting current liabilities from current assets. Therefore, working capital = current assets - current liabilities
+Working capital = 300,000 - 100,000 = Rs. 200,000
+Q14. What is the stock turnover ratio of a company if its cost of goods sold is Rs. 500,000 and the average stock is Rs. 100,000?
+a) 0.2
+b) 2 (Answer)
+c) 5
+d) 20
+
+
+Explanation:
+The stock turnover ratio is calculated by dividing the cost of goods sold by the average stock. Therefore, stock turnover ratio = cost of goods sold / average stock
+Stock turnover ratio = 500,000 / 100,000 = 5 times (approx.)
+Therefore, the correct answer is b) 2 times (approx.)
+Q15. When current ratio is 2: 1 and if there is an equal increase in current assets and current liabilities would result in
+
+
+1. No change in current ratio
+2. Increase in current ratio
+3. Decrease in current ratio
+4. Current ratio will double
+
+
+Answer: 3
+
+
+Q16. Minimum Support Price is recommended by which of the following institutions?
+
+
+1. Food Corporation of India
+2. Food and Agriculture Organization
+3. Commission for Agricultural Costs and Prices
+4. Ministry of Food and Agriculture
+
+
+Answer: 3
+
+
+Q17. Which of the following is the most close to the definition of Oligopoly?
+
+
+1. The cigarette industry
+2. The barber shop
+3. The welding shop
+4. Wheat growing farmers
+
+
+Answer: 1
+
+
+Q18. Which of the following is not a regulatory institution in Indian financial system?
+a) RBI
+b) CIBIL
+c) SEBI 
+d) IRDA
+
+
+Answer: B
+
+
+Q19. Financial institutions are also known as ______________.
+
+
+a) Financial organization
+b) Financial intermediaries
+c) Financial system 
+d) Any of the above
+
+
+Answer: B
+
+
+Q20. Which is considered as the mother of all Central Banks?
+ 
+a) Bank of England 
+b) Risks Bank of Sweden 
+c) Federal Reserve Bank 
+d) Reserve Bank of India
+
+
+Answer: A
+
+
+Q21. Which among the following is incorrect?
+
+
+a) RBI is the Bank of Issue
+b) RBI acts as Banker to the Government
+c) RBI is Bankers Bank
+d) RBI does not regulate the flow of credit
+
+
+Answer: D
+
+
+Q22. RRBs are managed by
+
+
+a) RBI
+b) a board of director
+c) the sponsor bank
+d) the state Gov
+
+
+Answer: b
+
+
+Q23. High inflation levels in the economy leads to _______ in the supply of money.
+
+
+A. Increase
+B. Decrease
+C. No change
+D. None of the above
+Answer: a
+
+
+Q24. A government resorts to __________ to reduce inflation.
+
+
+1. Cuts in government spending
+2. Increase in government expenditure
+3. Reduction in repo rate
+4. None of the above
+
+
+Answer: a
+
+
+Q25. _____ is an effective method to control inflation in the economy.
+
+
+a. Cash reserve ratio
+b. Selective control of credit
+c. Bank rate policy
+d. None of the above
+
+
+Answer: a
+
+
+Q26. When inflation is a result of an increase in the price of factors of production, the result is ________.
+
+
+a. Stagflation
+b. Cost-push inflation
+c. Demand-pull inflation
+d. None of the above
+
+
+Answer: b
+
+
+Q26. The Reserve Bank of India (RBI) can take the measure of _________ to control inflation within the country.
+
+
+a. Rationing of credit
+b. Introducing a progressive tax system
+c. Improving profits of the public sector
+d. Controlling public expenditure
+Answer: a
+
+
+Q27. he combination of stagnation and inflation is known as _____.
+
+
+
+
+a. Stagflation
+b. Cost-push inflation
+c. Demand-pull inflation
+d. None of the above
+
+
+Answer: a
+
+
+Q28. When too much money chasing too few goods, the resulting Inflation is called:
+(a) Deflation
+(b) Demand-pull Inflation
+(c) Cost push inflation
+(d) Stagflation
+Answer: (b) 
+
+
+Q29. In India, Inflation is measured by
+
+
+(a) Consumer Price Index
+(b) Agricultural price Index
+(c) Industrial Price Index
+(d) Wholesale Price Index.
+
+
+Answer: (d) Wholesale Price Index.
+
+
+Q30. Which organization calculates the Gross Domestic Product for India?
+
+
+a. Central Statistics Office (CSO)
+b. Department of Economic Affairs (DEA)
+c. National Sample Survey Office (NSSO)
+d. None of the above
+
+
+Answer: a
+
+
+Q31. The calculation of National Income at market prices is called ___________.
+
+
+Non-monetary income
+Money income
+Real income
+None of the above
+
+
+Answer: b
+
+
+Q32 Which of the following is not a method to calculate the Gross Domestic Product (GDP)?
+
+
+(a) Product method
+
+
+(b) Income law
+
+
+(c) Expenditure method
+
+
+(d) Diminishing cost method
+
+
+Ans: d
+
+
+Q33. Which of the following statements is correct?
+
+
+(a) GDP at factor cost = Net Value Addition + Depreciation 
+
+
+(b) GDP at factor cost = Net Value Addition - Depreciation
+
+
+(c) GDP at factor cost = Net price increase + indirect tax 
+
+
+(d) GDP at factor cost = Net price increase + direct tax 
+
+
+Ans: a
+
+
+Q34. Which statement is correct for nominal GDP?
+
+
+i. Nominal GDP is calculated based on current prices.
+ii. Nominal GDP is calculated based on the base prices.
+iii. Data on Nominal GDP shows an accurate picture of the economy as compared to real GDP.
+
+
+(a) Only ii, iii
+
+
+(b) only ii
+
+
+(c) only i
+
+
+(d) i, iii
+
+
+Ans: c
+
+
+Q35. The value of which work is added in the calculation of GDP?
+
+
+(a) Housewives' works
+
+
+(b) A teacher teaching his own child
+
+
+(c) The value of resale of old shares
+
+
+(d) Construction of new house by an artisan
+
+
+Ans: d
+
+
+Explanation: The value of the construction of a new house is added in the calculation of the GDP because it is a new production work in the economy
+
+
+Q36. Which sector contributes the most income to India's economy?
+
+
+(a) Primary sector
+
+
+(b) Secondary sector
+
+
+(c) Tertiary sector
+
+
+(d) None of these
+
+
+Ans: c
+
+
+Q37. With respect to final accounts, which of the following statements is incorrect?
+
+
+1. The income statement shows either net profit or net loss for a particular period.
+2. All liabilities that are due for payment within a year are classified as long-term liabilities.
+3. Salary paid in advance is not an expense as it neither reduces assets nor increases liabilities.
+4. A loss is an expense that does not bring any profit to the entity.
+
+
+Answer: 2
+
+
+
+
+
+
+
+
+
+
+Unit 3
+
+
+Q1. What is a sunk cost? 
+
+
+(a) A cost that has already been incurred and cannot be recovered 
+(b) A cost that can be avoided by taking a different action 
+(c) A cost that is relevant for future decisions
+(d) A cost that is variable and changes with the level of output. 
+
+
+Answer: A
+
+
+Explanation A cost that has already been incurred and cannot be recovered is sunken or sunk cost (It is related to depreciation unit 3 we have asked this question here instead of unit 1)
+
+
+Q2. What is the difference between a static budget and a flexible budget? 
+
+
+(a) A static budget is based on actual output while a flexible budget is based on planned output (b) A static budget is prepared at the beginning of the period while a flexible budget is prepared at the end of the period 
+(c) A static budget is based on one level of output while a flexible budget is based on different levels of output 
+(d) A static budget is used for planning while a flexible budget is used for control. 
+
+
+Answer: C
+
+
+Explanation: The fact that static budget is less effective than dynamic at adapting to changes which means while planning less no of parameters ( output ) are considered
+
+
+Q3. What is the formula for calculating the net present value of an investment project? 
+
+
+(a) NPV = Present value of cash inflows - Present value of cash outflows 
+(b) NPV = Present value of cash outflows - Present value of cash inflows 
+(c) NPV = Future value of cash inflows - Future value of cash outflows 
+(d) NPV = Future value of cash outflows - Future value of cash inflows. 
+
+
+Answer: A
+
+
+Q4. The breakeven point that represents level of output at which
+
+
+A. total revenue = 0
+B. total revenue = total cost
+C. total revenue > total cost
+D..total revenue < total cost
+
+
+Answer: B
+
+
+Q5.  The analysis which focuses on the firm's profitability is classified as
+
+
+A. profit analysis
+B. marginal analysis
+C. production analysis
+D. break-even analysis
+
+
+Answer: D
+
+
+Q6. The main concern in analysis of firm's break-even analysis is identifying level of output which results in
+
+
+A. zero profit
+B. high profit
+C. low profit
+D. market leading profits
+
+
+Answer: A
+
+
+Q7. Which of the following are assumptions for break-even analysis?
+
+
+A) Elements of cost cannot be divided in different groups.
+
+
+B) Fixed cost remains certain from zero production to full capacity.
+
+
+C) Behavior of different costs is linear
+
+
+D) Selling per price unit remains constant.
+
+
+a) A, B, C
+b) B, C, D
+c) A, C, D
+d) A, B, D
+
+
+Answer: B
+
+
+Q8. While measuring break-even analysis, it is considered that during a specific period there will be no change in general price level, i.e., labor, cost of material and other overheads.
+
+
+a) True
+b) False
+
+
+Answer: A
+
+
+Q9. What is the opportunity cost of a choice? 
+
+
+(a) The value of the best alternative forgone 
+(b) The sum of the benefits of all the alternatives 
+(c) The difference between the benefits and costs of the choice 
+(d) The cost of producing the chosen good or service. Answer: (a)
+
+
+Answer: A
+
+
+Q10. Which of the following is true with regard to food security?
+
+
+A. Food security exists when the government maintains a buffer stock of grains for the next five years.
+B. Government imposes a ban on grain exports for maintaining sufficient stock.
+C. Government encourages to produce organic foods for better and secure health.
+D. Food security exists when all people, at all times, have access to sufficient, safe and nutritious food.
+
+
+Answer: D
+
+
+
+
+
+
+
+
+Q11. The life cycle of a product includes
+
+
+a) extraction of natural resources
+b) processing of raw materials
+c) manufacturing of products
+d) all of the mentioned
+
+
+Answer: D
+
+
+Q12. Considerations of costing systems are
+
+
+a) life cycle costs
+b) machine usage
+c) cost of purchasing machinery
+d) all of the mentioned
+
+
+Answer: d
+
+
+Explanation:
+
+
+Depreciation, for example, an abatement in a resource's worth, might be brought about by various elements also, negative economic situations, and so forth Apparatus, hardware, money are a few instances of resources that are probably going to devalue throughout a particular time frame. The inverse of devaluation is an appreciation which is an expansion in the worth of a resource throughout some period.
+
+
+Q13. What is the principal objective of Depreciation?
+
+
+A. Show last year's profit.
+B. Show records to the Income Tax Department.
+C. To get a tax rebate.
+D. To calculate net profit.
+
+
+Answer: D) To calculate net profit
+ 
+Q14. What causes Depreciation?
+1. Loss of goods
+2. Purchase of Goods
+3. Increased Liability
+4. Wear & Tear
+Answer: D) Wear & Tear
+Q15.  What is the reason behind making a provision for depreciation in accounts?
+
+
+A. To show the current value of assets
+B. To show current liabilities
+C. To charge the cost of assets against profits
+D. To purchase new assets
+
+
+Answer: C)
+
+
+Q17. The Depreciation remains constant according to which method?
+
+
+A. Sum of years digit
+B. Units of production
+C. Declining Balance
+D. Straight Line Method
+
+
+Answer: D) Straight Line Method
+
+
+Q18. What is Depreciable Value?
+
+
+A. The combined cost of purchase and installation of an asset can be depreciated minus its salvage value.
+B. The worth of a physical asset's components when the asset itself is deemed no longer usable.
+C. Represents the value of a company according to the stock market.
+D. The estimated resale value of an asset at the end of its useful life.
+
+
+Answer: A)
+
+
+Q19. Define Market Value?
+1. The combined cost of purchase and installation of an asset can be depreciated minus its salvage value
+2. The worth of a physical asset's components when the asset itself is deemed no longer usable
+3. Represents the value of a company according to the stock market
+4. The estimated resale value of an asset at the end of its useful life
+Answer: C)
+Q20. What is the Fixed Installment Method?
+1. The amount of depreciation each year is fixed and equal.
+2. Way to work out the loss of value of an asset over time.
+3. System of recording larger depreciation expenses during the earlier years.
+4. An accelerated method for calculating an asset's depreciation.
+Answer: A)
+
+
+Q21. What is the Declining Balance Method?
+1. The amount of depreciation each year is fixed and equal.
+2. Way to work out the loss of value of an asset over time.
+3. System of recording larger depreciation expenses during the earlier years.
+4. An accelerated method for calculating an asset's depreciation.
+Answer: C) 
+Q22. What is the Sum of Years Digit?
+
+
+A. The amount of depreciation each year is fixed and equal.
+B. Way to work out the loss of value of an asset over time.
+C. System of recording larger depreciation expenses during the earlier years.
+D. An accelerated method for calculating an asset's depreciation.
+
+
+Answer: D)
+
+
+Q23.  What is the Unit of Production Method?
+
+
+A. The amount of depreciation each year is fixed and equal.
+B. Way to work out the loss of value of an asset over time.
+C. System of recording larger depreciation expenses during the earlier years.
+D. Method of calculating the depreciation of the value of an asset over time.
+
+
+Answer: D)
+
+
+Q24. Depreciation on machinery will be debited in which account?
+1. Cash Account
+2. Balance Sheet
+3. Depreciation Account
+4. Machinery Account
+Answer: C)
+Q25. A company decides to declare INR 200000 as cash dividend to shareholders. It will be reflected in the cash flow statement as a cash outflow under activities.
+
+
+1. Operating activities
+2. Financing activities
+3. Investing activities
+4. Accounting activities
+
+
+Answer: 2
+
+
+Q26. According to the Financial Accounting Standards Board (FASB), which of the following is a cash flow from a financing activity?
+
+
+1. cash outflow to the government for taxes
+2. cash outflow to shareholders as dividends
+3. cash outflow to lenders as interest
+4. cash outflow to purchase bonds issued by another company
+
+
+Answer: 2
+
+
+Q27. Cash flow statement classifies cash flows on the basis of
+
+
+1. Operating activities only
+2. Operating and financing activities only
+3. Operating and investing activities only
+4. Operating, financing and investing activities
+
+
+Answer Option 4
+
+
+Q28. Cash Flow Analysis is an important financial tool for the management. Its chief advantages are
+(a) Helps in cash management
+(b) Helps in external financial management
+(c) Helps in internal financial management
+(d) Discloses the movements of cash
+Which of the following options is correct?
+
+
+1. (a), (c) and (d) only
+2. (a), (b) and (d) only
+3. (a) and (d) only
+4. (a), (b), (c) and (d)
+
+
+Answer (Detailed Solution Below)
+Option 1: (a), (c) and (d) only
+
+
+Q29. The method that ignores cash generation beyond period when cash inflow exceeds investment
+
+
+1. Pay back method.
+2. ARR
+3. NPV
+4. IRR
+
+
+Answer: Option 1
+
+
+Q30. Total amount of depreciation of an asset cannot exceed its
+
+
+(a) Depreciable value
+
+
+(b) Scrap value
+
+
+(c) Market value
+
+
+(d) None of these
+
+
+Answer: A
+
+
+Q33. Salvage value means
+
+
+(a) Definite sale price of the asset
+
+
+(b) Cash to be received when life of the asset ends
+
+
+(c) Cash to be paid when asset is disposed off
+
+
+(d) Estimated disposal value
+
+
+Answer: D
+
+
+Q34.  In accounting, becoming out of date or obsolete is known as
+
+
+(a) Amortization
+
+
+(b) Obsolescence
+
+
+(c) Depletion
+
+
+(d) Physical deterioration
+
+
+Answer: B
+
+
+Q35. Which report gives a review on the profitability of a business?
+
+
+(a) Statement of changes in equity
+
+
+(b) Cash flow statement
+
+
+(c) Balance sheet
+
+
+(d) Income statement
+
+
+Answer: d
+
+
+Q36. When assets are subtracted from liabilities it will be equal to?
+
+
+(a) Capital
+
+
+(b) Net income
+
+
+(c) Working capital
+
+
+(d) Goodwill
+
+
+Answer: a
+
+
+Q37. Which statement shows the flow of cash and cash equivalents during the financial period?
+
+
+(a) Statement of changes in equity
+
+
+(b) Cash flow statement
+
+
+(c) Balance sheet
+
+
+(d) Income statement
+
+
+Answer: b
+
+
+Q38. With respect to final accounts, which of the following statements is incorrect?
+1. The income statement shows either net profit or net loss for a particular period.
+2. All liabilities that are due for payment within a year are classified as long-term liabilities.
+3. Salary paid in advance is not an expense as it neither reduces assets nor increases liabilities.
+4. A loss is an expense that does not bring any profit to the entity.
+
+
+Answer: 2
+
+
+Q39. ﻿When net profit is Rs 44,000 and profit on sale of a fixed asset is Rs 4,000, what is the fund from operations?
+
+
+1. Rs 40,000
+2. Rs 44,000
+3. Rs 48,000
+4. Cannot be computed
+
+
+Answer: 1
+
+
+Explanation:  Fund from operation = Net Profit - Non-operating income(sale of the fixed asset)
+= Rs. 44,000 - Rs. 4,000
+= Rs. 40,000
+Therefore, When net profit is Rs. 44,000 and profit on the sale of a fixed asset is Rs. 4,000, the fund from operations will be Rs. 40,000.
